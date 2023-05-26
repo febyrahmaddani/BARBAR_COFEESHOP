@@ -1,0 +1,167 @@
+body{
+    background: #424242;
+}
+/* navbar */
+.navbar{
+    width: 1440px;
+    height: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background: #424242 !important;
+}
+
+.navbar-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    color: #FFFFFF !important;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-link{
+    margin-left: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #F5F5F5 !important;
+}
+/* tutup navbar */
+
+/* hero section */
+.imgsection{
+    margin-top: 39px;
+}
+
+.gede{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    color: #EDEDED;
+
+    text-shadow: -4px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.kata{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #EDEDED;
+}
+
+.btn-submit{
+    margin-top: 50px;
+    box-sizing: border-box;
+    width: 230px;
+    height: 50px;
+    background: #424242;
+    border: 2px solid #EDEDED;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #EDEDED;
+}
+
+.btn-submit:hover{
+    color: #FFFFFF;
+    width: 350px;
+    background: #FFFFFF;
+    border: 2px solid #424242;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #353535;
+}
+
+.iconsect{
+    position: absolute;
+    left: 1054px;
+    top: 151px;
+
+}
+/* tutup hero section */
+
+/* footer */
+footer{
+    width: 1440px;
+    height: 323px;
+    background: #424242;
+    padding-top: 86px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.foot-item{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.footparaph{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.foot-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.foot-link:hover{
+    color: #EDEDED;
+    text-decoration: none;
+}
+
+.help{
+    margin-left: 132px;
+    margin-top: -10px;
+}
+
+.cafe{
+    margin-left: 176px;
+    margin-top: -10px;
+}
+
+.address{
+    margin-top: 20px;
+    margin-left: 132px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 50px;
+    background: #424242;
+    border-top: 1px solid #FFFFFF;
+}
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+/* tutup footer */

@@ -1,0 +1,186 @@
+/* navbar */
+.navbar{
+    width: 1440px;
+    height: 60px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background: #424242 !important;
+}
+
+.navbar-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    color: #FFFFFF !important;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-link{
+    margin-left: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #F5F5F5 !important;
+}
+/* tutup navbar */
+
+/* breadcrumb */
+.breadcrumb{
+    background: none;
+    margin-left: 100px;
+    margin-top: 34px;
+}
+
+.breadcrumb-item{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000000;
+}
+/* tutup breadcrumb */
+
+/* detail */
+.detail{
+    margin-left: 120px;
+}
+
+.name{
+    margin-top: 19px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    color: #000000;
+}
+
+.rinci{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+}
+.harga{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+
+.btn-submit{
+    width: 350px;
+    height: 50px;
+    background: #424242;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    transition: all 0.2s ease;
+}
+.btn-submit:hover{
+    color: #F5F5F5;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-add{
+    box-sizing: border-box;
+    width: 350px;
+    height: 50px;
+    background: #FBFBFB;
+    border: 2px solid #424242;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 19px;
+    color: #424242;
+    transition: all 0.2s ease;
+}
+.btn-add:hover{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* tutup detail */
+
+
+/* footer */
+footer{
+    margin-top: 60px;
+    width: 1440px;
+    height: 323px;
+    background: #424242;
+    padding-top: 86px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.foot-item{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.footparaph{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.foot-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.foot-link:hover{
+    color: #EDEDED;
+    text-decoration: none;
+}
+
+.help{
+    margin-left: 132px;
+    margin-top: -10px;
+}
+
+.cafe{
+    margin-left: 176px;
+    margin-top: -10px;
+}
+
+.address{
+    margin-top: 20px;
+    margin-left: 132px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 50px;
+    background: #424242;
+    border-top: 1px solid #FFFFFF;
+}
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+/* tutup footer */

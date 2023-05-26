@@ -1,0 +1,235 @@
+/* navbar */
+.navbar{
+    width: 1440px;
+    height: 60px;
+    background: #424242;
+}
+.navbar-brand{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF !important;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* tutup navbar */
+
+/* payment */
+.pembayaran{
+    margin-left: 120px;
+}
+.head{
+    margin-bottom: 30px;
+    margin-top: 90px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    color: #424242;
+}
+.pesanan{
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 400px;
+    height: 360px;
+    background: #424242;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+.pesan{
+    padding-top: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.subtotal{
+    margin-top: 38px;
+}
+.fee{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #F5F5F5;
+}
+.nominal{
+    margin-left: 100px;
+}
+.garis{
+    margin-top: 20px !important;
+    width: 339.01px;
+    height: 0px;
+    border: 1px solid #F5F5F5;
+    margin: 0;
+}
+.al{
+    margin-left: 180px;
+}
+
+/* tutup payment */
+
+/* metode */
+.metod{
+    position: absolute;
+    left: 628px;
+    top: 246px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+
+}
+.dana{
+    position: absolute;
+    left: 628px;
+    top: 303px;
+    transition: all 0.2s ease;
+}
+.dana:hover{
+    transform: scale(1.1);
+}
+.ovo{
+    position: absolute;
+    left: 872px;
+    top: 303px;
+    transition: all 0.2s ease;
+}
+.ovo:hover{
+    transform: scale(1.1);
+}
+.gopay{
+    position: absolute;
+    left: 1116px;
+    top: 303px;
+    transition: all 0.2s ease;
+}
+.gopay:hover{
+    transform: scale(1.1);
+}
+.tunai{
+    position: absolute;
+    left: 628px;
+    top: 403px;
+    transition: all 0.2s ease;
+}
+.tunai:hover{
+    transform: scale(1.1);
+}
+/* tutup metode */
+
+.btn-submit{
+    margin-top: 135px;
+    width: 350px;
+    height: 50px;
+    background: #424242;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    transition: all 0.2s ease;
+    color: #FFFFFF;
+}
+.btn-submit:hover{
+    width: 450px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #F5F5F5;
+}
+
+.btn-cancel{
+    margin-top: 26px;
+    box-sizing: border-box;
+    width: 350px;
+    height: 50px;
+    transition: all 0.2s ease;
+    background: #FBFBFB;
+    border: 2px solid #424242;
+    border-radius: 4px;
+}
+.btn-cancel:hover{
+    width: 450px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* footer */
+footer{
+    margin-top: 60px;
+    width: 1440px;
+    height: 323px;
+    background: #424242;
+    padding-top: 86px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.foot-item{
+    font-family: 'Mont';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.footparaph{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.foot-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.foot-link:hover{
+    color: #EDEDED;
+    text-decoration: none;
+}
+
+.help{
+    margin-left: 132px;
+    margin-top: -10px;
+}
+
+.cafe{
+    margin-left: 176px;
+    margin-top: -10px;
+}
+
+.address{
+    margin-top: 20px;
+    margin-left: 132px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 50px;
+    background: #424242;
+    border-top: 1px solid #FFFFFF;
+}
+.copyright h5{
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+/* tutup footer */
